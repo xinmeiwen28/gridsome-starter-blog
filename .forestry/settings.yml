@@ -5,8 +5,8 @@ admin_path: admin
 webhook_url: ''
 sections:
 - type: directory
-  path: blog
-  label: Blog
+  path: posts
+  label: posts
   create: documents
   match: "**/*"
 upload_dir: uploads
