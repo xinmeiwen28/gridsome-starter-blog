@@ -9,11 +9,11 @@ fields:
   name: data
   label: DATA
 - type: textarea
-  name: sub_title
-  label: SUB TITLE
+  name: description
+  label: Description
 - type: file
-  name: picture
-  label: Picture
+  name: cover_image
+  label: Cover_Image
 - type: tag_list
   name: tags
   label: Tags
