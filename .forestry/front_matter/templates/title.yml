@@ -5,12 +5,15 @@ fields:
 - type: text
   name: title
   label: Title
+- type: datetime
+  name: data
+  label: DATA
 - type: text
   name: sub_title
   label: SUB TITLE
 - type: file
-  name: banner_images
-  label: BANNER IMAGES
+  name: picture
+  label: Picture
 - type: tag_list
   name: tags
   label: Tags
