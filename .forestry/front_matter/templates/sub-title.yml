@@ -1,7 +1,0 @@
----
-label: SUB TITLE
-hide_body: false
-fields:
-- type: text
-  name: sub_title
-  label: SUB TITLE
