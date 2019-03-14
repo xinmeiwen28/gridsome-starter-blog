@@ -8,7 +8,7 @@ fields:
 - type: datetime
   name: data
   label: DATA
-- type: text
+- type: textarea
   name: sub_title
   label: SUB TITLE
 - type: file
@@ -17,6 +17,3 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-- type: textarea
-  name: body
-  label: body
