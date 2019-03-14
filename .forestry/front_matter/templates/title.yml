@@ -8,3 +8,13 @@ fields:
 - type: text
   name: sub_title
   label: SUB TITLE
+- type: file
+  name: banner_images
+  label: BANNER IMAGES
+- type: tag_list
+  name: tags
+  label: Tags
+- type: include
+- type: textarea
+  name: body
+  label: Body
